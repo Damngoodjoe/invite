@@ -38,6 +38,7 @@ h1, h2, h3, h4, p {
 
 .gift-section {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .gift-title {
@@ -94,15 +95,3 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
